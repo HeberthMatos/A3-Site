@@ -1,0 +1,128 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 1024px;
+    height: 728px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.title {
+    position: absolute;
+    width: 667px;
+    height: 105px;
+    left: 178px;
+    top: 46px;
+    font-family: 'Cantata One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 43px;
+    text-align: center;
+    letter-spacing: -0.461416px;
+
+    color: #EFF4FF;
+
+}
+
+.button {
+    position: absolute;
+    width: 260px;
+    height: 240px;
+    left: 178px;
+    top: 244px;
+
+    background: #051326;
+    border-radius: 20px;
+}
+
+.imgbutton {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 183px;
+    top: 239px;
+
+}
+
+.button1 {
+    position: absolute;
+    width: 259px;
+    height: 240px;
+    left: 585px;
+    top: 239px;
+
+    background: #051326;
+    border-radius: 20px;
+}
+
+.imgbutton1 {
+    position: absolute;
+    width: 249.04px;
+    height: 250px;
+    left: 595.96px;
+    top: 239px;
+}
+
+.voltar {
+    position: absolute;
+    width: 44px;
+    height: 47px;
+    left: 936px;
+    top: 555px;
+}
+
+.background {
+    position: absolute;
+    width: 65px;
+    height: 70px;
+    left: 926px;
+    top: 543px;
+    border-radius: 50%;
+    background: #D9D9D9;
+
+}
+
+.text {
+    position: absolute;
+    width: 260px;
+    height: 38px;
+    left: 178px;
+    top: 400px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 43px;
+    /* or 181% */
+
+    text-align: center;
+    letter-spacing: -0.461416px;
+
+    color: #FFFFFF;
+}
+
+.text1 {
+    position: absolute;
+    width: 260px;
+    height: 38px;
+    left: 585px;
+    top: 400px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 43px;
+    /* or 181% */
+
+    text-align: center;
+    letter-spacing: -0.461416px;
+
+    color: #FFFFFF;
+
+}
