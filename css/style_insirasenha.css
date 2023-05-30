@@ -97,3 +97,23 @@ body {
     background: #D9D9D9;
     border-radius: 20px;
 }
+
+.tentar {
+    position: absolute;
+    width: 376px;
+    height: 105px;
+    left: 323px;
+    top: 100px;
+
+    font-family: 'Cantata One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 43px;
+
+    text-align: center;
+    letter-spacing: -0.461416px;
+
+    color: #EFF4FF;
+
+}
