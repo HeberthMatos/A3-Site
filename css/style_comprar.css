@@ -175,3 +175,35 @@ body {
     background: #D9D9D9;
 
 }
+
+.bar0 {
+    position: absolute;
+    width: 300px;
+    height: 60px;
+    left: 95px;
+    top: 151px;
+
+    background: #D9D9D9;
+    border-radius: 20px;
+}
+
+.text0 {
+    position: absolute;
+    width: 270px;
+    height: 45px;
+    left: 110px;
+    top: 138px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 43px;
+    /* or 181% */
+
+    text-align: center;
+    letter-spacing: -0.461416px;
+
+    color: #000000;
+
+}

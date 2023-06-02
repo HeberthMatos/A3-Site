@@ -49,7 +49,37 @@ body {
     color: #EFF4FF;
 }
 
+.tentar {
+    position: absolute;
+    width: 376px;
+    height: 105px;
+    left: 323px;
+    top: 90px;
+
+    font-family: 'Cantata One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 43px;
+    /* or 109% */
+
+    text-align: center;
+    letter-spacing: -0.461416px;
+
+    color: #EFF4FF;
+
+}
+
 .voltar {
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    left: 937px;
+    top: 556px;
+
+}
+
+.cancelar {
     position: absolute;
     width: 44px;
     height: 44px;
