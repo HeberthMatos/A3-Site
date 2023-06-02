@@ -9,6 +9,7 @@ body {
     margin: 0 auto;
     position: relative;
 }
+
 .title {
     position: absolute;
     width: 275px;
@@ -79,4 +80,24 @@ body {
     left: 362px;
     top: 214px;
 
+}
+
+.title0 {
+    position: absolute;
+    width: 455px;
+    height: 44px;
+    left: 284px;
+    top: 46px;
+
+    font-family: 'Cantata One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 43px;
+    /* identical to box height, or 109% */
+
+    text-align: center;
+    letter-spacing: -0.461416px;
+
+    color: #EFF4FF;
 }

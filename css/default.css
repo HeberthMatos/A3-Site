@@ -35,6 +35,14 @@ body {
     top: 662px;
 }
 
+.logo-bilhete-unico {
+    position: absolute;
+    width: 70px;
+    height: 69.77px;
+    left: 42px;
+    top: 642px;
+}
+
 .master {
     position: absolute;
     width: 82px;
