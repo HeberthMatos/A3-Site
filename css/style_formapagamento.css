@@ -167,3 +167,84 @@ body {
     color: #FFFFFF;
     
 }
+
+.button0 {
+position: absolute;
+width: 259px;
+height: 240px;
+left: 178px;
+top: 222px;
+
+background: #051326;
+border-radius: 20px;
+}
+
+.button00 {
+position: absolute;
+width: 259px;
+height: 240px;
+left: 585px;
+top: 222px;
+
+background: #051326;
+border-radius: 20px;
+}
+
+.imgbutton0 {
+position: absolute;
+width: 190px;
+height: 67.52px;
+left: 213px;
+top: 308px;
+
+}
+
+.imgbutton00 {
+    position: absolute;
+width: 249.04px;
+height: 250px;
+left: 595.96px;
+top: 222px;
+}
+
+.text0 {
+position: absolute;
+width: 260px;
+height: 38px;
+left: 178px;
+top: 400px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 43px;
+/* or 181% */
+
+text-align: center;
+letter-spacing: -0.461416px;
+
+color: #FFFFFF;
+
+}
+
+.text00 {
+position: absolute;
+width: 260px;
+height: 38px;
+left: 585px;
+top: 400px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 43px;
+/* or 181% */
+
+text-align: center;
+letter-spacing: -0.461416px;
+
+color: #FFFFFF;
+
+}
