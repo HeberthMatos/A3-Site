@@ -32,9 +32,9 @@ body {
     position: absolute;
     width: 260px;
     height: 240px;
-    left: 178px;
-    top: 244px;
-
+    left: 56px;
+    top: 227px;
+    
     background: #051326;
     border-radius: 20px;
 }
@@ -43,8 +43,8 @@ body {
     position: absolute;
     width: 250px;
     height: 250px;
-    left: 183px;
-    top: 239px;
+    left: 61px;
+    top: 222px;
 
 }
 
@@ -52,9 +52,9 @@ body {
     position: absolute;
     width: 259px;
     height: 240px;
-    left: 585px;
-    top: 239px;
-
+    left: 708px;
+    top: 222px;
+    
     background: #051326;
     border-radius: 20px;
 }
@@ -63,14 +63,16 @@ body {
     position: absolute;
     width: 249.04px;
     height: 250px;
-    left: 595.96px;
-    top: 239px;
+    left: 718.96px;
+    top: 222px;
 }
 
 .button2 {
     position: absolute;
     width: 259px;
     height: 240px;
+    top: 222px;
+    left: 382px;
 
     background: #051326;
     border-radius: 20px;
@@ -80,6 +82,8 @@ body {
     position: absolute;
     width: 190px;
     height: 67.52px;
+    top: 310px;
+    left: 410px;
 
 }
 
@@ -106,19 +110,19 @@ body {
     position: absolute;
     width: 260px;
     height: 38px;
-    left: 178px;
-    top: 400px;
-
+    left: 56px;
+    top: 390px;
+    
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
     font-size: 24px;
     line-height: 43px;
     /* or 181% */
-
+    
     text-align: center;
     letter-spacing: -0.461416px;
-
+    
     color: #FFFFFF;
 }
 
@@ -126,8 +130,8 @@ body {
     position: absolute;
     width: 260px;
     height: 38px;
-    left: 585px;
-    top: 400px;
+    left: 710px;
+    top: 390px;
 
     font-family: 'Inter';
     font-style: normal;
@@ -147,16 +151,19 @@ body {
     position: absolute;
     width: 260px;
     height: 38px;
-
+    top: 390px;
+    left: 380px;
+    
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
     font-size: 24px;
     line-height: 43px;
     /* or 181% */
-
+    
     text-align: center;
     letter-spacing: -0.461416px;
-
+    
     color: #FFFFFF;
+    
 }
