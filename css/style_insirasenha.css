@@ -190,3 +190,43 @@ body {
 
     color: #FFFFFF;
 }
+
+p {
+    position: absolute;
+    width: 419px;
+    height: 105px;
+    left: 302px;
+    top: 90px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 43px;
+    /* or 310% */
+
+    text-align: center;
+    letter-spacing: -0.461416px;
+
+    color: #EFF4FF;
+}
+
+.title0 {
+    position: absolute;
+    width: 419px;
+    height: 105px;
+    left: 302px;
+    top: 31px;
+
+    font-family: 'Cantata One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40.7132px;
+    line-height: 43px;
+    /* or 107% */
+
+    text-align: center;
+    letter-spacing: -0.461416px;
+
+    color: #EFF4FF;
+}
