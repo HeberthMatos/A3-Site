@@ -67,6 +67,22 @@ body {
     top: 239px;
 }
 
+.button2 {
+    position: absolute;
+    width: 259px;
+    height: 240px;
+
+    background: #051326;
+    border-radius: 20px;
+}
+
+.imgbutton2 {
+    position: absolute;
+    width: 190px;
+    height: 67.52px;
+
+}
+
 .voltar {
     position: absolute;
     width: 44px;
@@ -125,4 +141,22 @@ body {
 
     color: #FFFFFF;
 
+}
+
+.text2 {
+    position: absolute;
+    width: 260px;
+    height: 38px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 43px;
+    /* or 181% */
+
+    text-align: center;
+    letter-spacing: -0.461416px;
+
+    color: #FFFFFF;
 }
