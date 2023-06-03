@@ -1,3 +1,3 @@
-# IdeaLab
+# A3-Site
 
-Remodelagem do aplicativo AutoPass
+Projeto referente a avaliação A3, ReDesign do terminal AutoPass
